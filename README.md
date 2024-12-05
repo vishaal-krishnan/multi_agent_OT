@@ -1,1 +1,1 @@
-# multi_agent_OT
+# Multi-agent optimal transport
