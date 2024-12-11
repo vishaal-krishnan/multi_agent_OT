@@ -14,7 +14,8 @@ For more details, refer to: [preprint of paper](https://arxiv.org/pdf/1804.01572
 ## Citation
 
 If you found this work useful, please cite:
-```@article{krishnan2025distributed,
+```
+@article{krishnan2025distributed,
   title={Distributed online optimization for multi-agent optimal transport},
   author={Krishnan, Vishaal and Mart{\'\i}nez, Sonia},
   journal={Automatica},
@@ -22,4 +23,5 @@ If you found this work useful, please cite:
   pages={111880},
   year={2025},
   publisher={Elsevier}
-}```
+}
+```
