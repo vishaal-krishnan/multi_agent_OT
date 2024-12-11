@@ -9,7 +9,7 @@ the current distribution of the collective to the target distribution.
 Using these estimates as their local objective functions, the agents then implement the transport by stochastic proximal descent. 
 This two-step process is carried out recursively by the agents to converge asymptotically to the target distribution. <br />
 
-For more details, refer to: [arxiv](https://arxiv.org/pdf/1804.01572)
+For more details, refer to: [preprint of paper](https://arxiv.org/pdf/1804.01572)
 
 ## Citation
 
